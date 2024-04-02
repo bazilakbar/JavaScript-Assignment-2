@@ -10,7 +10,7 @@ let studentName = "Johne Doe"
 
 let studentAge = "15 years old"
 
-studentEnrolledCourse = "Certified Mobile Application Development"
+let studentEnrolledCourse = "Certified Mobile Application Development"
 
 alert (studentName)
 
